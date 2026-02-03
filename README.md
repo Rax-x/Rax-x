@@ -47,9 +47,3 @@
 
 #### Editor
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-
-### 3 | 🔥 Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/?username=rax-x&count_private=true&theme=transparent&showicons=true" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rax-x&langs_count=5&theme=transparent" height="216"/>
-</div>
