@@ -2,9 +2,9 @@
 
 ### 0 | 💻 This is the place where i publish my experiments and projects
 
-- 🌱 I’m currently learning how to build Compilers and Interpreters
-- 🔭 I’m currently working on a simple scripting language
-- 💬 Ask me about C language
+- 🌱 Learning to build compilers and interpreters
+- 🔭 Working on modern compiler construction and engineering
+- 💬 Ask me about the C programming language
 
 ### 1 | 🤘 About me
 - Linux user :penguin:
